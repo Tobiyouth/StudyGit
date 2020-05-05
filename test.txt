@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 he29384llo hhh  Git t2314essd3t
-=======
-he29384llo hhh  Git tes123123sd3t
->>>>>>> Stashed changes
+
